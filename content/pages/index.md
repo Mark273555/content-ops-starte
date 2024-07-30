@@ -251,6 +251,9 @@ sections:
       text: Виникло питання? Повідомте нам про це!
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       Виникло питання або потрібна допомога в оформленні замовлення? Без
