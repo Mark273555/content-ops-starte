@@ -94,7 +94,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Піонія Рожева
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
