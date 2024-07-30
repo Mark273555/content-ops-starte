@@ -145,6 +145,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: 'Що ми пропонуємо:'
     text: >+
