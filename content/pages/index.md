@@ -260,7 +260,7 @@ sections:
 
     media:
       fields:
-        - name: name
+        - name: Ваше ім'я
           label: Name
           hideLabel: true
           placeholder: Your name
