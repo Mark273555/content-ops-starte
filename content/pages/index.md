@@ -206,7 +206,7 @@ sections:
       text: Ми у соціальних мережах
       color: text-dark
       type: TitleBlock
-    subtitle: Шукай нас тут
+    subtitle: ''
     text: |+
       Шукай нас у Instagram!
 
