@@ -108,7 +108,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Каталог
       color: text-dark
       styles:
         self:
