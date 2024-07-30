@@ -207,9 +207,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Шукай нас тут
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      Шукай нас у Instagram!
+
     actions:
       - label: Get started
         url: /
