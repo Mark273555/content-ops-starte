@@ -211,7 +211,7 @@ sections:
       Шукай нас у Instagram!
 
     actions:
-      - label: Get started
+      - label: Контакти
         url: /
         icon: arrowRight
         iconPosition: right
