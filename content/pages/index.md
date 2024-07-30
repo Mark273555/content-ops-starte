@@ -140,7 +140,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Grow your business 10x faster
+      text: Чому нас обирають?
       color: text-dark
       styles:
         self:
