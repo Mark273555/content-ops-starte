@@ -73,6 +73,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 700
     items:
       - type: FeaturedItem
         title: Піонія Рожева
