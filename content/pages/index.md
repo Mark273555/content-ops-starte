@@ -127,6 +127,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/AnyConv.com__IMG_2911.jpg
         actions: []
         colors: bg-light-fg-dark
         tagline: ''
