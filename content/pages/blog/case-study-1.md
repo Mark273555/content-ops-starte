@@ -1,5 +1,5 @@
 ---
-title: 120 UAH/квітка
+title: Піонія рожева
 slug: case-study-1
 date: ''
 excerpt: >-
