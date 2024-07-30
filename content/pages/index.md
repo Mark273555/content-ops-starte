@@ -203,7 +203,7 @@ sections:
         fontWeight: 400
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Ми у соціальних мережах
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
