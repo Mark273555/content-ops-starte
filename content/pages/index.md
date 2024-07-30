@@ -206,7 +206,7 @@ sections:
       text: Ми у соціальних мережах
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Шуках нас тут
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
