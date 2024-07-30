@@ -217,7 +217,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Перейти
         url: /
         showIcon: true
         icon: arrowRight
