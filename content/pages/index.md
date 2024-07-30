@@ -252,11 +252,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Усе безпечно, нам потрібна лише Ваша електронна адреса.'
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Виникло питання або потрібна допомога в оформленні замовлення? Без
+      проблем! Залиште вашу інформацію і з Вами зв'яжеться наш менеджер!
     media:
       fields:
         - name: name
