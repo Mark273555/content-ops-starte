@@ -276,7 +276,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: В
+          placeholder: Ваше повідомлення
           width: full
           type: TextareaFormControl
       elementId: contact-form
