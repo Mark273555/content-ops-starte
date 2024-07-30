@@ -201,7 +201,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-        textDecoration: line-through
     type: GenericSection
   - title:
       text: Social Media Management
