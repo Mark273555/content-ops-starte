@@ -42,7 +42,7 @@ sections:
       type: Badge
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
     elementId: ''
     colors: bg-light-fg-dark
     styles:
