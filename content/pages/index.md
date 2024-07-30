@@ -248,7 +248,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: 'Залиште інформацію, і ваше повідомлення буде прочитане!'
+      text: Виникло питання? Повідомте нам про це!
       color: text-dark
       type: TitleBlock
     subtitle: ''
