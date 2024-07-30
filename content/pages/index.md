@@ -133,7 +133,7 @@ sections:
         tagline: ''
       - type: FeaturedItem
         title: Троянда Жовта
-        subtitle: $117
+        subtitle: 99 UAH/квітка
         image:
           type: ImageBlock
           url: /images/AnyConv.com__IMG_2919.jpg
