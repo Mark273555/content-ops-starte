@@ -68,7 +68,10 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Каталог
+      text: >-
+        Каталог Квітка НЕО, Ваш помічник у будь яких найяскравіших подіях вашого
+        життя! З радістю оформимо та доставимо Ваше замовлення безкоштовно!при
+        купівлі від 500 грн
       color: text-dark
       styles:
         self:
