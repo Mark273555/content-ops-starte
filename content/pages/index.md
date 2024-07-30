@@ -12,8 +12,6 @@ sections:
           fontWeight: 700
     subtitle: ''
     text: |
-      ##
-
       Виберіть найкращі квіти для будь-якої події з нашого асортименту.
     actions:
       - label: Get started
