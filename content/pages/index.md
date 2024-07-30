@@ -119,7 +119,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Троянда Червона
-        subtitle: $ 44.99 – $ 90
+        subtitle: 100 UAH/квітка
         image:
           type: ImageBlock
           url: /images/photo_5281005785192719541_y.jpg
