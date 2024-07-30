@@ -98,7 +98,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/AnyConv.com__IMG_2940.jpg
+          url: /images/AnyConv.com__IMG_2931.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
