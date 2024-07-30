@@ -11,16 +11,10 @@ sections:
         self:
           fontWeight: 700
     subtitle: ''
-    text: |+
-      ## Ласкаво просимо до нашого квіткового магазину!
+    text: |
+      ##
 
       Виберіть найкращі квіти для будь-якої події з нашого асортименту.
-
-
-
-
-
-
     actions:
       - label: Get started
         altText: ''
