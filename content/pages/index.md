@@ -251,7 +251,7 @@ sections:
       text: 'Залиште інформацію, і ваше повідомлення буде прочитане!'
       color: text-dark
       type: TitleBlock
-    subtitle: 'Усе безпечно, нам потрібна лише Ваша електронна адреса'
+    subtitle: 'Усе безпечно, нам потрібна лише Ваша електронна адреса.'
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
