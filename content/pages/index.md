@@ -95,7 +95,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Піонія Рожева
-        subtitle: 120 UAH/квітку
+        subtitle: 120 UAH/квітка
         image:
           type: ImageBlock
           url: /images/AnyConv.com__IMG_2931.jpg
