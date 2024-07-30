@@ -200,7 +200,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontStyle: italic
     type: GenericSection
   - title:
       text: Social Media Management
