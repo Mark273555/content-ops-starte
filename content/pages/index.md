@@ -14,7 +14,7 @@ sections:
     text: |
       Виберіть найкращі квіти для будь-якої події з нашого асортименту.
     actions:
-      - label: Get started
+      - label: Контакти
         altText: ''
         url: /
         showIcon: false
