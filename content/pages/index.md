@@ -95,7 +95,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Піонія Рожева
-        subtitle: $ 88 – $ 176
+        subtitle: 120 UAH
         image:
           type: ImageBlock
           url: /images/AnyConv.com__IMG_2931.jpg
