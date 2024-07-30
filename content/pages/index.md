@@ -262,21 +262,21 @@ sections:
         - name: Ваше ім'я
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Ваше ім'я
           isRequired: true
           width: full
           type: TextFormControl
         - name: Пошта
           label: Пошта
           hideLabel: true
-          placeholder: Your email
+          placeholder: Ваша пошта
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Ваше повідомлення
           width: full
           type: TextareaFormControl
       elementId: contact-form
