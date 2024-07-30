@@ -122,7 +122,6 @@ sections:
         subtitle: 100 UAH/квітка
         image:
           type: ImageBlock
-          url: /images/photo_5281005785192719541_y.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
