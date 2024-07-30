@@ -269,7 +269,7 @@ sections:
         - name: Пошта
           label: Пошта
           hideLabel: true
-          placeholder: Your email
+          placeholder: Ваша пошта
           isRequired: true
           width: full
           type: EmailFormControl
