@@ -4,12 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "**Квітка НЕО, Ваш помічник у будь яких найяскравіших подіях вашого життя! З радістю оформимо та доставимо Ваше замовлення безкоштовно!** \n\n*при купівлі від 500 грн*\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "наш продукт",
         "links": [
             {
-                "label": "Features",
+                "label": "Оформлення замовлення",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Актуальні ціни",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,7 +26,7 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Каталог",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -37,10 +37,10 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "КВІТКА НЕО",
         "links": [
             {
-                "label": "Careers",
+                "label": "Доставка та оплата",
                 "altText": "careers page",
                 "url": "/careers",
                 "icon": "arrowRight",
@@ -49,7 +49,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Приєднуйся до нас у Instagram!",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
