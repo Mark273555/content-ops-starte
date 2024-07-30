@@ -268,7 +268,7 @@ sections:
           width: full
           type: TextFormControl
         - name: Пошта
-          label: Email
+          label: Пошта
           hideLabel: true
           placeholder: Your email
           isRequired: true
