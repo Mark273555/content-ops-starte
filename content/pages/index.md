@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Квітковий магазин
+      text: Ласкаво просимо до нашого квіткового магазину!
       color: text-dark
       type: TitleBlock
       styles:
