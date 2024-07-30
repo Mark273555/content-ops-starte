@@ -146,7 +146,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: 'Що ми пропонуємо:'
     text: >+
       **Що ми пропонуємо:**
 
