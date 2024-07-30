@@ -132,7 +132,7 @@ sections:
         colors: bg-light-fg-dark
         tagline: ''
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Троянда Жовта
         subtitle: $117
         image:
           type: ImageBlock
