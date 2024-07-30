@@ -9,7 +9,7 @@
         "title": "наш продукт",
         "links": [
             {
-                "label": "Майбутнє",
+                "label": "Оформлення замовлення",
                 "altText": "Features page",
                 "url": "/",
                 "icon": "arrowRight",
