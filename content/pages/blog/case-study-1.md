@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/AnyConv.com__IMG_2941 (1).jpg
+  url: /images/AnyConv.com__IMG_2931.jpg
   altText: Case study 1
   styles:
     self:
