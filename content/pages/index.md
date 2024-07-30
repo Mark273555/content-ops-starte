@@ -118,7 +118,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: ''
+        title: Троянда Червона
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
